@@ -1,0 +1,6 @@
+@advanced color branco "Substituto do Branco" #D7D4ED
+@advanced color cor1 "Cor Clara" #D1B3FF
+@advanced color cor2 "Segunda Cor Clara" #A366FF
+@advanced color cor3 "Cor Principal" #751AFF
+@advanced color cor4 "Segunda Cor Escura" #0E0C1D
+@advanced color cor5 "Cor Escura" #07060E
